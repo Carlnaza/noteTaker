@@ -2,7 +2,7 @@
 
 ## Description
 
-- An app that saves note titles in a .JSON file
+- An app that saves notes to a .JSON file
 - All saved notes can be viewed again once clicked
 
 ## Usage
